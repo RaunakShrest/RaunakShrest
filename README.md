@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raunakshrest&label=Profile%20views&color=0e75b6&style=flat" alt="raunakshrest" /> </p>
 
-- 🔭 I’m currently working in **PalmMind Technology**
+- 🔭 I’m currently working at **PalmMind Technology**
 
 - 🌱 I’m currently learning **Angular**
 
