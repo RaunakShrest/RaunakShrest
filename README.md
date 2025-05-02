@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raunakshrest&label=Profile%20views&color=0e75b6&style=flat" alt="raunakshrest" /> </p>
 
-- 🌱 I’m currently learning **Docker**
-
 - 💬 Ask me about **Angular, NextJs, ReactJs, NodeJs, MongoDb**
 
 - 📫 How to reach me **raunakshrestha62@gmail.com**
